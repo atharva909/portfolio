@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 470" fill="none">
+  <defs><linearGradient id="pink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ee889e"/><stop offset="1" stop-color="#dc6584"/></linearGradient><linearGradient id="denim" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#a4c0d8"/><stop offset="1" stop-color="#729ab8"/></linearGradient></defs>
+  <ellipse cx="130" cy="451" rx="92" ry="10" fill="#232323" opacity=".1"/>
+  <path d="M109 70c-20-5-27-22-24-40 4-21 30-27 50-21 19 5 31 19 25 40l-13 23z" fill="#1c1c1c"/>
+  <path d="M90 35c21-6 46-4 76 4" stroke="#282828" stroke-width="9" stroke-linecap="round"/>
+  <path d="M102 55c-5 23 3 41 21 43 17 1 30-15 31-35l-13-18-37 1z" fill="#b17b5b"/>
+  <path d="M114 88l-3 29 27 8 2-33" fill="#a97558"/>
+  <path d="M105 105c-34 0-55 18-63 48l-17 93c-2 10 6 17 13 17 8 0 13-5 15-14l19-75 1 117 121-2-2-125 11 65c2 12 10 16 18 13 8-3 11-10 9-20l-11-69c-5-32-26-46-63-48-10 12-27 13-51 0z" fill="url(#pink)" stroke="#a9576c" stroke-width="2"/>
+  <path d="M72 174c35 12 83 14 120 1M79 260c33 6 68 6 106 0" stroke="#b5546d" stroke-width="2" opacity=".6"/>
+  <text x="130" y="151" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="900" fill="#292029">YOUR</text>
+  <text x="130" y="166" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="900" fill="#292029">NAME</text>
+  <text x="130" y="230" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="53" font-weight="900" fill="#272027">07</text>
+  <path d="M72 280l-9 126c-1 14 2 22 16 24l32 1c9-4 10-10 10-21l16-98 12 100c2 10 5 19 18 20l28-3c13-4 14-13 10-28l-12-121c-39 11-79 11-121 0z" fill="url(#denim)" stroke="#688da6" stroke-width="3"/>
+  <path d="M119 306l-12 112m34-112 16 112M84 289c-3 34-6 70-11 102m110-97 12 102" stroke="#d8e4ec" stroke-width="3" opacity=".6"/>
+  <path d="M70 420c-11 4-23 16-25 26 1 9 13 12 37 11l23-1c8-3 9-9 7-17l-5-14zm98 3c-6 12-9 22-4 28 10 9 45 8 63 3 8-4 8-9 3-13-7-7-19-14-31-18z" fill="#f4f2e9" stroke="#252525" stroke-width="3"/>
+</svg>
